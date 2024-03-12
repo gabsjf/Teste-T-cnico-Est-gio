@@ -1,0 +1,60 @@
+EXPLICAÇÃO DOS EXERCÍCIOS
+
+Exercício 1 - soma
+O trecho de código dado parece ser um pseudocódigo que calcula a soma dos números inteiros de 1 até um índice específico (13 no caso).
+Seu resultado será 91, pois o programa calcula a soma da iteração inteira, somando então os números de 1 a 13.
+
+Exercício 2 - Fibonacci
+A function isFibonacci gera a sequência de fibo. até um número fornecido e verifica sua presença na sequência. Logo após, solicita ao usuário um número e usa a função citada acima para verificar se ele está na sequência de fibonacci, exibindo a mensagem correspondente a informação.
+
+Exercício 3 - lógica
+a) 1, 3, 5, 7, ___
+
+A lógica é adicionar 2 ao número anterior.
+O próximo número será 7 + 2 = 9.
+
+b) 2, 4, 8, 16, 32, 64, ____
+
+A lógica é multiplicar o número anterior por 2.
+O próximo número será 64 * 2 = 128. 
+
+c) 0, 1, 4, 9, 16, 25, 36, ____
+
+A lógica é elevar o índice em 2.
+O próximo número será 7^2 = 49.
+
+d) 4, 16, 36, 64, ____
+A sequência dada parece ser uma progressão de quadrados perfeitos.
+
+A sequência dada parece ser uma progressão de quadrados perfeitos.
+
+O primeiro termo é 4, que é igual a 2^2.
+O segundo termo é 16, que é igual a 4^2.
+O terceiro termo é 36, que é igual a 6^2.
+O quarto termo é 64, que é igual a 8^2.
+Assim, parece que cada termo da sequência é o quadrado do próximo número par na sequência de números naturais. Então, o próximo número na sequência seria o quadrado de 10, que é 100. Portanto, a sequência completa é:
+
+4, 16, 36, 64, 100.
+
+e) 1, 1, 2, 3, 5, 8, ____
+
+A lógica é a sequência de Fibonacci.
+O próximo número será 8 + 5 = 13.
+
+f) 2,10, 12, 16, 17, 18, 19, ____
+Não há uma lógica numérica claramente definida. Porém, a lista se compõe apenas de números que começam com a letra D.
+Dois,Dez,Doze,Desesseis,Desessete,Dezoito,Dezenove. O próximo número com D é o número Duzentos
+
+Exercício 4 - lâmpada
+Para resolver esse problema, deve-se seguir os seguintes passos de um algoritmo:
+1-Ligue um dos interruptores e aguarde alguns minutos.
+2-Depois de alguns minutos, desligue esse interruptor e ligue outro que ainda não foi usado.
+3-Entre na sala das lâmpadas.
+4-A lâmpada que estiver acesa está conectada ao interruptor que você ligou e depois desligou.
+5-A lâmpada que estiver desligada, mas quente, está conectada ao interruptor que você desligou depois de tê-lo ligado.
+6-A lâmpada que estiver desligada e fria está conectada ao interruptor que você nunca tocou.
+
+Portanto, é possível identificar qual interruptor controla cada lâmpada com apenas duas idas até a sala das lâmpadas.
+
+5- inverter a string
+Não há desafios lógicos, apenas de execução  e conhecimento técnico da linguagem
